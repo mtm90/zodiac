@@ -8,8 +8,11 @@ h1 {
 }
 
 form {
-  display: inline-block;
+  display: flex;
   margin-bottom: 20px;
+  flex-direction: column;
+  width: 30vw;
+
 }
 
 label {
