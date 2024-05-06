@@ -32,3 +32,7 @@ button {
 #result {
   margin-top: 20px;
 }
+p {
+  display: flex;
+  justify-content: center;
+}
